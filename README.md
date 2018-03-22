@@ -1,5 +1,5 @@
 # Mini_Project_1stYr
-------------------------------------------------------Welcome to our project!-------------------------------------------
+------------------------------------------------------Welcome to our project!------------------------------------------------------
 
 Feel free to download, edit and do whatever you wish with our project code!
 
