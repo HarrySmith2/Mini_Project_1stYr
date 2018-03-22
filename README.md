@@ -20,7 +20,7 @@ The main write up documents are "ProjectIgnorance_HowTo" and "ProjectIgnorance_W
 
 Thank you for taking a look, have a nice day!
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 In the "code" directory there are several documents:
 
 CaptivePortalFinal.php = The main Captive Portal page a user will see after connecting to our network.
